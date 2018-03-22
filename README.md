@@ -1,8 +1,3 @@
-# kaggle-titanic
-My solution for the famous Kaggle Titanic challenge
-
-
-
 # Titanic - Kaggle challenge
 #### Author : Alphonse Doutriaux - March 2018
 
